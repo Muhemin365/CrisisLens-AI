@@ -1,0 +1,8372 @@
+[
+  {
+    "text": "M 4.1 - 23 km E of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 37 km WSW of Kyelang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 35 km SW of Fayzabad, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 48 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 16 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 15 km WSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 13 km ESE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 13 km NNE of Malakwal City, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 32 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 77 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "Flooding reported in Swat Valley after heavy monsoon rains, houses damaged",
+    "location": "Khyber Pakhtunkhwa",
+    "label": "flood",
+    "priority": "high"
+  },
+  {
+    "text": "Moderate earthquake tremor felt in Islamabad and northern areas",
+    "location": "Islamabad Capital Territory",
+    "label": "earthquake",
+    "priority": "low"
+  },
+  {
+    "text": "Landslides block Karakoram Highway near Gilgit, traffic suspended",
+    "location": "Gilgit-Baltistan",
+    "label": "landslide",
+    "priority": "high"
+  },
+  {
+    "text": "Earthquake in Pakistan",
+    "location": "Pakistan",
+    "label": "earthquake",
+    "priority": "low"
+  },
+  {
+    "text": "Flood in Pakistan",
+    "location": "Pakistan",
+    "label": "flood",
+    "priority": "low"
+  },
+  {
+    "text": "Glacial lake outburst flood (GLOF) reported in Hunza, local bridge swept away",
+    "location": "Gilgit-Baltistan",
+    "label": "flood",
+    "priority": "critical"
+  },
+  {
+    "text": "Heavy urban flooding in Karachi streets after continuous 8-hour rain",
+    "location": "Sindh",
+    "label": "flood",
+    "priority": "low"
+  },
+  {
+    "text": "NDMA issues alert for high flows in Indus River; Southern Punjab villages advised to relocate",
+    "location": "Punjab",
+    "label": "other",
+    "priority": "medium"
+  },
+  {
+    "text": "M 4.3 - 42 km NE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 22 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 40 km NW of Dajal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 39 km SE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 19 km N of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 47 km NNE of Bāzārak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 33 km NW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 32 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 26 km WNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 93 km SSW of Pasni, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 29 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.4 - 38 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km NNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 5 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 41 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 46 km ENE of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 49 km WNW of Dera Ghazi Khan, Pakistan",
+    "location": "Dera Ghazi Khan, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km NE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 36 km S of Kalat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 48 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.8 - 35 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 19 km WNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 7 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 19 km SSW of Kamar Mushani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 25 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 70 km WNW of Chowki Jamali, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 41 km NW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 48 km NNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km NW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 39 km NW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 53 km N of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 28 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 46 km WSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 68 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 42 km NE of Tagāb, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 30 km WSW of Duki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 27 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 9 km N of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 25 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 28 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 67 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 18 km SE of Kalat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 42 km E of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 58 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 52 km SSE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.4 - 15 km NE of Mardan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.8 - 37 km NE of Bāzārak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 34 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 72 km WNW of Chowki Jamali, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km SW of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 25 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 26 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 15 km WNW of Tsrār Sharīf, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 11 km ENE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 21 km S of Dalbandin, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 45 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 49 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 52 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 49 km NW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 51 km NNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.6 - 49 km NNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 80 km ESE of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 94 km NNW of Uruzgān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 101 km SE of Fayrōz Kōh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 58 km E of Gwadar, Pakistan",
+    "location": "Gwadar, Balochistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 65 km NNE of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 2 km WNW of Jabal os Saraj, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 26 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 33 km NE of Aībak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 39 km WNW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 14 km NE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 30 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 9 km ESE of Bāsawul, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 33 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 37 km SSW of Fayzabad, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 27 km WNW of Rāpar, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 8 km NW of Jand, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 19 km NNE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 27 km NNE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km ENE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 38 km NW of Gadani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 60 km N of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 28 km NE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km NNE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 37 km WSW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 27 km SSE of Muzaffarābād, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 15 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 33 km N of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km NNW of Thang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 35 km WNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 20 km E of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 36 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 25 km SSW of Khanabad, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 38 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 36 km SSW of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 54 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 89 km N of Thang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 8 km E of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 52 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 17 km ESE of Ziarat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.2 - 30 km SE of Mazār-e Sharīf, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 115 km E of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 46 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 27 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 21 km ESE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 49 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 34 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 59 km ESE of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 36 km E of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 50 km W of Dera Ghazi Khan, Pakistan",
+    "location": "Dera Ghazi Khan, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 41 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 42 km SW of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 50 km ESE of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 49 km E of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 69 km ESE of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 43 km E of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.5 - 48 km ESE of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 10 km N of Bāsawul, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 35 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 54 km NNW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 9 km SE of Karor, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 74 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 99 km NE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 58 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 40 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 97 km ENE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 76 km SSW of Chaman, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 72 km SSW of Dalbandin, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 67 km SSW of Dalbandin, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 136 km S of Damusi, China",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 53 km SW of Gadani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 16 km N of Markaz-e Woluswalī-ye Āchīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 44 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 126 km N of Thang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 28 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 135 km N of Thang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km NNE of Bāzārak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 19 km ENE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 53 km NE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 75 km ENE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km N of Pahlgām, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 40 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 33 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 44 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 31 km NNE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 25 km ENE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 38 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 38 km NNE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 34 km ENE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 31 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 16 km NNE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 36 km NNE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 24 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.6 - 40 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 35 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 38 km ENE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 21 km NNE of Bāsawul, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 34 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 30 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 38 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 26 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 41 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 39 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 42 km NNE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 38 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 38 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 30 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 35 km ENE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.0 - 35 km WSW of Asadābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 46 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 27 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 42 km S of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km N of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 45 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 43 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km NNE of Pālampur, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 47 km NW of Jabal os Saraj, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 64 km S of Qalāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 11 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 2 km WNW of Gujar Khan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 60 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 34 km NW of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 13 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 24 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km N of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 41 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 17 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 3 km NW of Uthal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 29 km ESE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 41 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 14 km NNW of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 66 km ESE of Kalat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 45 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 10 km NW of Kharkhauda, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 53 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 8 km NNE of Jhajjar, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 41 km SSE of Kharan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 35 km ENE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 21 km E of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 12 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km W of Charikar, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 35 km W of Taunsa, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 33 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 64 km NE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 56 km NNE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 31 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 67 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 26 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 35 km ESE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 71 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 11 km W of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 44 km WNW of Khadan Khak, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 45 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 58 km E of Kalat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 56 km SSW of Turbat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 180 km SSW of Kharan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 51 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 19 km ESE of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km ESE of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 40 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 14 km NNE of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km NNE of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 32 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 38 km WSW of Taunsa, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 45 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 43 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 63 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 22 km S of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km NW of Paghmān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 31 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 33 km ENE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 32 km WNW of Zhob, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 40 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 13 km NNW of Kalat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 45 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 31 km ESE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 35 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 67 km ESE of Khandūd, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 24 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 7 km WNW of Bāzārak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 39 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 66 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 48 km ESE of Zhob, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 51 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 176 km SW of Dalbandin, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 72 km SE of Diplo, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.7 - 58 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 48 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 31 km SE of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 80 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.6 - 66 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 10 km SE of Hazro City, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 39 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 34 km WSW of Gulishah Kach, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 55 km ESE of Uthal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 28 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 28 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 40 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 27 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 30 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 45 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 17 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km E of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 50 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 30 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 14 km ENE of Dera Ghazi Khan, Pakistan",
+    "location": "Dera Ghazi Khan, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 63 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 41 km ENE of Iranshahr, Iran",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 20 km NE of Kohlu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 29 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 47 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 42 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 22 km SE of Mingora, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 8 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km NNW of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 21 km S of Rawalpindi, Pakistan",
+    "location": "Rawalpindi, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 23 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km N of Baghlān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 26 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 42 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 56 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 68 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 26 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 14 km NNE of Kishtwār, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 42 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 50 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 27 km E of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 62 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 43 km NNE of Aībak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 15 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 75 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 30 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 15 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 35 km NNE of Chaman, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 36 km NNW of Bāramūla, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 62 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 49 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 33 km SE of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 13 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 8 km SSW of Sarai Alamgir, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 27 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 71 km WSW of Taunsa, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 37 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 51 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 29 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 11 km SW of Chānasma, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 36 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 36 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 32 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 37 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 14 km SSE of Ḩukūmatī Azrah, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 32 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km ENE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 72 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 69 km NE of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 29 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 41 km ENE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.9 - 44 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 21 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 26 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 29 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 22 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 50 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 14 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 40 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 37 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km WNW of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 26 km SSW of Landi Kotal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 22 km SSW of Gulishah Kach, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 77 km N of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 42 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 35 km W of Karor, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 35 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 76 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 75 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 17 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 79 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 65 km N of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 41 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 48 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 31 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 43 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.6 - 17 km NNE of Uri, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 5 km WSW of Bāramūla, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 8 km SW of Bāramūla, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 22 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 31 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 50 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 39 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 62 km NE of Qalāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 38 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.6 - 7 km WSW of Pāndoh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 33 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 34 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 24 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 46 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 23 km NW of Baghlān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 39 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 57 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 10 km W of Goth Phulji, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 19 km WSW of Goth Phulji, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 21 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 44 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km W of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 46 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 57 km N of Kohlu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 13 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 76 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 7 km S of Bāramūla, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 40 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 50 km S of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 8 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 27 km SSW of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 17 km S of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 25 km S of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 60 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 16 km SSE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 19 km SSW of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 50 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 56 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 54 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 24 km N of Mehtar Lām, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 34 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 59 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 40 km SE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 74 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 4 km ESE of Nawalgarh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km ESE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 28 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 21 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km SSW of Khanabad, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 49 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 87 km SW of Karachi, Pakistan",
+    "location": "Karachi, Sindh",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 41 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 25 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 51 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 47 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 73 km SSE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 157 km S of Damusi, China",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 46 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 28 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 46 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 60 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 7 km NNE of Jabal os Saraj, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 19 km SSW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 16 km ESE of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 25 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 35 km S of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 40 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 39 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 15 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 23 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 76 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 5 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 8 km NW of Dullewala, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km S of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 23 km W of Ḩukūmatī Azrah, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 24 km S of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 33 km S of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 11 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 58 km W of Nushki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 68 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 58 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 19 km SE of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 32 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 62 km W of Karor, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 54 km NW of Taunsa, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 31 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 35 km NE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 38 km WSW of Nushki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 68 km WNW of Nushki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.5 - 64 km WNW of Nushki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 14 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 44 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 46 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 33 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 11 km NNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 42 km WSW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km WSW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 33 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 78 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 46 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 34 km S of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 67 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 65 km SE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 23 km SSW of Balkh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 47 km S of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 33 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 13 km SSW of Tagāb, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 42 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 34 km SW of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 58 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 21 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 44 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 55 km WSW of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 71 km SW of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 54 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 45 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 26 km SE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 21 km SSW of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 8 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 40 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 26 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 40 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 34 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 44 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.4 - 45 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 41 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 16 km SSE of Rustāq, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 25 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 10 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 16 km S of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 45 km S of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 16 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 24 km S of Thang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km ESE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.6 - 14 km S of Rawalpindi, Pakistan",
+    "location": "Rawalpindi, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 38 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 41 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 31 km S of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 58 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km SW of Dajal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 21 km W of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 128 km NNE of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 48 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 20 km SSW of Mastung, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 64 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 112 km SSE of Damusi, China",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 55 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 46 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km SSE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 180 km S of Ormara, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 59 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 60 km SSW of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 22 km E of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 24 km SW of Qarch? Gak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 22 km ESE of Zahedan, Iran",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 19 km NE of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 42 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 46 km E of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 32 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 38 km SSE of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 52 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 5 km SW of Hangu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 20 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 37 km W of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 32 km W of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km W of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 40 km W of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 27 km W of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 43 km NNE of Bāzār-e Yakāwlang, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 24 km WNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 16 km NNE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 23 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 25 km WNW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 24 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 30 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 31 km W of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 38 km SE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 31 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 25 km N of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 20 km NNE of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 42 km ESE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 12 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 25 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 22 km N of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km SE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 12 km NNE of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 19 km NNW of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.4 - 26 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 24 km N of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.3 - 34 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 47 km E of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 34 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 32 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 58 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 19 km SSE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 20 km WNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 28 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 9 km NNE of Pul-e Khumrī, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 10 km SE of Baghlān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 14 km NNW of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 18 km WNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 5 km NE of Chahār Burj, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 28 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 27 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 24 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.3 - 24 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 20 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 33 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 35 km SE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 29 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 34 km NNE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 16 km NW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 40 km S of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km SSE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 29 km NW of Karukh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 37 km SSE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 28 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 12 km ENE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 25 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 36 km SSE of Qarah Bāgh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.9 - 35 km NNW of Herāt, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 31 km N of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 21 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.3 - 25 km NNE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 29 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.4 - 26 km NE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.3 - 32 km NNE of Zindah Jān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 42 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 71 km NNE of Muzaffarābād, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 74 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 78 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 28 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 33 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km W of Baghlān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 13 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 14 km S of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 53 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 50 km E of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 56 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 5 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 48 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 23 km SSW of Tagāb, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 32 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 43 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 33 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 38 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 65 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 47 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 28 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 38 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - Badakhshan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.8 - 47 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 25 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 65 km SE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 5 km S of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 23 km NNW of Shingli Bala, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km S of Khanabad, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 30 km E of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 32 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 11 km ESE of Jaipur, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 22 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km ENE of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 14 km WNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 28 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 9 km ESE of Kishtwār, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 15 km SE of Kishtwār, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 10 km ESE of Baghlān, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 49 km ESE of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 32 km ESE of Kabul, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 39 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 39 km SSW of Duki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 23 km ENE of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 14 km SE of Kishtwār, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 22 km ENE of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 23 km NE of Bhadarwāh, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 31 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 6 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 26 km N of Hangu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 42 km SE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 49 km NE of Sarakhs, Iran",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 44 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 24 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 33 km SSW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 64 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 2 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 34 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 23 km NW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 47 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 35 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 47 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 45 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 11 km W of Farkhār, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km NNW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 1 km ENE of Awantipur, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 41 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km WSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 31 km W of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 76 km NE of Muzaffarābād, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 44 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 16 km S of Kot Addu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 28 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 17 km ESE of Muzaffarābād, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 41 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km NE of Nahrīn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 30 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 33 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.4 - 29 km NW of Kot Malik Barkhurdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 23 km NNW of Pārūn, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 22 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 22 km NE of Jalālābād, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 44 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 75 km WNW of Chowki Jamali, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 46 km SW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.5 - 40 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 48 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 63 km SSW of Ashkāsham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 40 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 50 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 65 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 45 km WSW of Sehwan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 17 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 45 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 43 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 57 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 77 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 27 km E of Sanjwal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 43 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 31 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 25 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 47 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 33 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 51 km WSW of Kulachi, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km ESE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 41 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 30 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 50 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 101 km NNW of Bela, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 14 km W of Rawalpindi, Pakistan",
+    "location": "Rawalpindi, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 27 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 10 km SW of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 66 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 45 km ENE of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 24 km WSW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 38 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km SSW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.0 - 44 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 1 km SSW of Shekhupura, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 25 km NW of Dajal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - Kashmir-Xinjiang border region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 36 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - Haryana, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 11 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 34 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 38 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 36 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 19 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 60 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km NNE of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 36 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 28 km ESE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 29 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 20 km NE of Kabul, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 34 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 12 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 8 km ESE of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 54 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 10 km NE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 43 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 57 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 28 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km N of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 15 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km ESE of Harnai, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 29 km NNE of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 12 km NE of Jand, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 13 km WSW of Kulu, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 46 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 13 km SSE of Chiniot, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 36 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 50 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 29 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 13 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 27 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 29 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 18 km NNW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 54 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 6 km NNW of Balkh, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 25 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 57 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 42 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 79 km N of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 75 km SSE of Khand?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 15 km WSW of Jhelum, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 60 km NNW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 40 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 75 km NNW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 19 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 63 km WNW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 40 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 26 km ENE of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 31 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 22 km NNE of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 35 km NE of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 14 km ENE of Baghl?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 22 km WSW of Kalat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 56 km N of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 16 km E of Doda, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 11 km SE of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 47 km SW of Kh?st, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 21 km W of Goth Phulji, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 49 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 44 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 23 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 26 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 41 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 56 km NW of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 17 km S of Pasni, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.6 - 16 km SE of Pasni, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 53 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km WNW of Pishin, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 53 km W of Miran Shah, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 55 km SW of Kh?st, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 33 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 50 km SW of Kh?st, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 26 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 31 km ESE of Kabul, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 37 km S of Tag?b, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 34 km E of Dera Bugti, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 72 km NNW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 31 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 49 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 43 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 41 km NNE of B?z?rak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 126 km N of Turbat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 49 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.7 - 11 km SE of Rohtak, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.5 - Hindu Kush region, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 49 km W of Miran Shah, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 48 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 44 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 52 km W of Miran Shah, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 6.0 - 55 km SW of Kh?st, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 49 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 51 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 39 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 39 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 35 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 69 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 36 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 11 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 45 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 39 km SE of Chabahar, Iran",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 19 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 73 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 53 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 6 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 62 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 20 km W of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 26 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 20 km NNE of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 37 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 37 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 34 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 80 km N of Bela, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 46 km S of Dalbandin, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 42 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 45 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 36 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 13 km W of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 181 km WSW of Zangguy, China",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 79 km N of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 33 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 20 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 22 km SW of Doaba, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 16 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 51 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 30 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 63 km E of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 60 km SE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 48 km SSW of Jiwani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 59 km NW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - northwestern Kashmir",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 10 km W of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 76 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 49 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 63 km NW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 68 km WNW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 9 km SW of B?rew?la, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 54 km NNW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 65 km ESE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 19 km SSW of Qal?t, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 112 km N of Thang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 76 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 65 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 38 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 79 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 34 km NE of B?z?rak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 73 km NNE of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.6 - 17 km NNE of Dharamsala, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 49 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 12 km NW of Baghl?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 64 km WNW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 9 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 24 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 17 km N of Baffa, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 38 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 49 km W of Gahkuch, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 29 km W of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 39 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 25 km NNW of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 39 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 12 km SE of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.8 - 45 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 50 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 9 km S of Darz?b, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 47 km SW of Kohlu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 20 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 67 km NW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 72 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 37 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 2 km ENE of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 16 km SE of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 23 km E of Khulm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 70 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 22 km SE of Sanjwal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 45 km E of Qala i Naw, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 49 km E of Qala i Naw, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 9 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 40 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 51 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.3 - 16 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 37 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 51 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 39 km NNE of Gwadar, Pakistan",
+    "location": "Gwadar, Balochistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - Kashmir-India border region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 20 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - Badakhshan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 32 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 69 km SE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 31 km E of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 54 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 64 km SE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 68 km WNW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 60 km SE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 22 km SSW of Alik Ghund, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 11 km SE of Battagram, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 27 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 24 km WSW of Markaz-e Woluswal?-ye?ch?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 75 km N of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 33 km NE of Chabahar, Iran",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 38 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 42 km ESE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 48 km WNW of Kotri, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 10 km SE of Kakad Wari Dir Upper, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 11 km WSW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 54 km WSW of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 45 km W of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 27 km N of Gharo, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 11 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 11 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 13 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 31 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 25 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 25 km NW of Baghl?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 37 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 25 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 32 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 50 km WSW of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 35 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 20 km SSW of Jalor, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 30 km ENE of A?bak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 36 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 73 km W of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - off the coast of Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 49 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 12 km NW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 52 km NNW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 22 km SE of Jati, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 40 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km SE of Kharan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 20 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 29 km SSW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 14 km SW of Qarch? Gak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 39 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km SSE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 75 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 28 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 35 km SW of Duki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 81 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 5 km S of Harnai, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 38 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 9 km ESE of Harnai, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.9 - 11 km NNE of Harnai, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - Central Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 30 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 22 km SE of Rust?q, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 32 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 42 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 73 km WSW of Taunsa, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 26 km N of Kohlu, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 66 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 9 km NW of Pindi Gheb, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 52 km NW of Padam, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 70 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.4 - 7 km W of Sahiwal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 30 km S of Khanabad, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 40 km NE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 46 km SE of Ghormach, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 38 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 34 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 37 km W of Jiwani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 16 km NNW of Zindah J?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 34 km SSW of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 46 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 81 km SSW of Maymana, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 35 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 13 km SSE of?uk?mat? Dahanah-ye Gh?r?, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 3 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 12 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 45 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 40 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 6 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 28 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 36 km NW of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 41 km ENE of Dera Bugti, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 47 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 10 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 32 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km W of Dera Ghazi Khan, Pakistan",
+    "location": "Dera Ghazi Khan, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 31 km NNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.2 - 36 km NW of Rajanpur, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 168 km SSE of Ormara, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 32 km NW of Rajanpur, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 58 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 25 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 35 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.9 - 7 km WNW of Kharkhauda, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 102 km SW of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 56 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km SSE of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 10 km SW of Charikar, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 12 km ESE of Kohat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km SW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 33 km SE of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 79 km NNE of Ormara, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 17 km ENE of Battagram, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 16 km NNW of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 79 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km NNW of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 30 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 38 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 56 km NNE of Zhob, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 68 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 47 km SSE of Shahritus, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 36 km SSE of Shahritus, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 38 km SSW of Shahritus, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 45 km SSE of Shahritus, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 7 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 25 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 18 km NW of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 61 km NNE of Nushki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 64 km WNW of Mastung, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 51 km W of Kot Malik Barkhurdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 160 km NNW of Turbat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 11 km SW of Tag?b, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 59 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km SW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 23 km S of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 43 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 24 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 132 km SSE of Ormara, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 30 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 64 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 32 km N of Baghl?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 47 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km WNW of Kunduz, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 27 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 65 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 38 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km SSW of Mehtar L?m, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 33 km NNW of Dera Ghazi Khan, Pakistan",
+    "location": "Dera Ghazi Khan, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 41 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 16 km SSE of A?bak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 73 km WNW of Chowki Jamali, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 27 km N of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 105 km ENE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 58 km ESE of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 22 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 36 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 112 km SW of Kharan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 58 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 27 km N of A?bak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 37 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 36 km NNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 43 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 51 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 50 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 14 km S of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 15 km WSW of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 2 km SW of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 33 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 64 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 30 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 5 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 98 km NE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 54 km WNW of Rajanpur, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.7 - 10 km WNW of Baraki Barak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km W of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 46 km N of Jiwani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 58 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 34 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 26 km ENE of Chaman, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 181 km WSW of Zangguy, China",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 54 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 61 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 76 km NNE of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 23 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 42 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 8 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 51 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.5 - 47 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 16 km W of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 13 km NNW of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 41 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 40 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 35 km W of Kyelang, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 28 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 7 km NNW of Shingli Bala, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 71 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 12 km ESE of Battagram, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 47 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 21 km ENE of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 34 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 37 km NE of Shibirgh?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 86 km E of Khand?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 65 km E of Khand?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 2 km ESE of Pulwama, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - northwestern Kashmir",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 62 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 6 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 54 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 32 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 41 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 61 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 65 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 38 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 9 km SSW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.5 - 16 km SSW of Alik Ghund, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 7 km NNE of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 36 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - eastern Kashmir",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 44 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 24 km N of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 20 km S of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 10 km NNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 16 km WSW of Gadani, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 40 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 43 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 56 km N of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 19 km SE of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 11 km ENE of Upper Dir, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 32 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 79 km NNW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 56 km WSW of Wana, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 42 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 26 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 15 km NW of Dadhar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 48 km S of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 47 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 72 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 57 km WNW of Dera Ghazi Khan, Pakistan",
+    "location": "Dera Ghazi Khan, Punjab",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 27 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 28 km SSW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 14 km N of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 46 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 3.8 - 67 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 13 km WNW of Charikar, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 12 km SE of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 62 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 11 km SSW of Bela, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 40 km NNW of Bandipura, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 47 km E of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 36 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 39 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 1 km WSW of Srinagar, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 38 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 47 km SSW of Duki, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 40 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 11 km SW of New Mirpur, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 46 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 53 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 41 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 35 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km SW of?uk?mat? Azrah, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 26 km W of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 32 km E of Pindi Gheb, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 43 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 25 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 26 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 51 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 43 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 27 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 17 km ENE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 55 km SW of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 64 km SSW of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.6 - 57 km SSW of Surab, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 2 km E of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 52 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 8 km ENE of B?z?rak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - Afghanistan-Tajikistan-Pakistan region",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 42 km NW of B?z?rak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 60 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 42 km ENE of Nahr?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 49 km NW of Dera Bugti, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 17 km WSW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 11 km NW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 56 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 36 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 55 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 53 km SW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 26 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 16 km NW of Jhelum, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 16 km SW of New Mirpur, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 8 km E of Paghm?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 22 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 72 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 9 km NNW of B?wal, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 158 km SE of Ormara, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 21 km E of Bhadarw?h, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 47 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 23 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 21 km NE of Bhadarw?h, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 19 km SE of Kishtw?r, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 48 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 12 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 26 km SE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 9 km S of Kohat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 37 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 29 km ESE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 66 km N of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 34 km SW of Pasni, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 27 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 5 km S of Sarai Alamgir, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 45 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 74 km NNW of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 33 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 37 km SW of Ormara, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 13 km WSW of Shinpokh, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 30 km WSW of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 63 km N of P?r?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 33 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 26 km WSW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 11 km NE of Maydanshakhr, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 35 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 41 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 50 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 76 km W of Turbat, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 39 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 28 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 41 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 25 km E of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 47 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 28 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 44 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 43 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 10 km NNE of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 18 km N of Barkhan, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 43 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 61 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 28 km SE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 40 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 44 km SSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km E of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.7 - 59 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 14 km S of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 14 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 37 km SW of Dajal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 60 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 27 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 38 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 25 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 7 km SSW of?sm?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 79 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 31 km SE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 60 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 53 km NNE of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 18 km WNW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 15 km N of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 52 km SSW of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 114 km ENE of Barishal, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 46 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.6 - 52 km W of Khuzdar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 11 km SSE of Dadhar, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 29 km SSE of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 28 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 69 km SE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 48 km NNE of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 10 km NNW of Upper Dir, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 44 km S of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.0 - 47 km NNE of Chamba, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 39 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 38 km SSE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 39 km SSE of Gilgit, Pakistan",
+    "location": "Gilgit, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 47 km SSE of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.1 - 35 km SW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 30 km N of Baghl?n, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - 27 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 17 km NE of Jal?l?b?d, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.4 - 38 km WSW of Ashk?sham, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 11 km SSE of Taloqan, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 8 km NNW of Ishqoshim, Tajikistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 57 km SE of Zhob, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.5 - 58 km NW of Skardu, Pakistan",
+    "location": "Skardu, Gilgit-Baltistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.2 - 29 km SSW of Farkh?r, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.8 - 12 km E of Bela, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.3 - 36 km S of Jurm, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 5.1 - 68 km NNW of Bandipura, India",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 31 km WNW of Warah, Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 63 km ENE of B?z?rak, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.0 - 21 km S of Qal?t, Afghanistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "M 4.9 - southwestern Pakistan",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "Tropical Cyclone ASNA-24",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "Flood in Islamic Republic of Iran, Pakistan",
+    "location": "Pakistan",
+    "label": "flood",
+    "priority": "low"
+  },
+  {
+    "text": "Flood in India, Pakistan",
+    "location": "Pakistan",
+    "label": "flood",
+    "priority": "low"
+  },
+  {
+    "text": "Tropical Cyclone BIPARJOY-23",
+    "location": "Pakistan",
+    "label": "other",
+    "priority": "low"
+  },
+  {
+    "text": "Flood in Afghanistan, Iran, Pakistan",
+    "location": "Pakistan",
+    "label": "flood",
+    "priority": "low"
+  },
+  {
+    "text": "26 dead after flash floods in Dera Ismail Khan, rescue teams deployed",
+    "location": "Khyber Pakhtunkhwa",
+    "label": "flood",
+    "priority": "critical"
+  },
+  {
+    "text": "Tremors felt in Quetta, magnitude estimated 4.5 by meteorological dept",
+    "location": "Balochistan",
+    "label": "earthquake",
+    "priority": "medium"
+  },
+  {
+    "text": "Relief activities ongoing in flood-affected districts of Balochistan",
+    "location": "Balochistan",
+    "label": "flood",
+    "priority": "low"
+  },
+  {
+    "text": "Sukkur barrage water level rising dangerously, authorities on high alert",
+    "location": "Sindh",
+    "label": "other",
+    "priority": "medium"
+  }
+]
